@@ -69,3 +69,8 @@
         display:flex;
         align-items:center;
 }
+.footer-color{
+    background-color: blue;
+    height: 5rem;
+    font-size: 2rem;
+}
