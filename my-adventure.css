@@ -50,3 +50,22 @@
     margin-right: auto;
     display: block
 }
+.video-text-cen{
+    text-align: center;
+}
+.parker-right{
+    max-height: 15rem;
+    max-width: 15rem;
+    margin-left: 50rem;
+}
+.aj-left{
+    height: 15rem;
+    width: 15rem;
+}
+.aj-text-right{
+    text-align: right;
+}
+.aj-div{
+        display:flex;
+        align-items:center;
+}
